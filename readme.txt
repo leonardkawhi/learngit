@@ -7,7 +7,7 @@ Git is a distributed version control system.
 Git is free software distributed under the GPL.
 
 my t
-
+git 
 creating a new branch ius quick
 
-creating anew branch is quick & simple
+solve
